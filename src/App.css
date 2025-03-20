@@ -18,5 +18,12 @@ body{
       height: 100vh;
       
   }
+  .par{
+    padding: 20px;
+  }
     
+  .par h3,h2 {
+    font-family: monospace;
+    overflow: hidden;
+  }
     
