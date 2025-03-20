@@ -1,16 +1,17 @@
-import "./app.css"
+import "./App.css"
 function App() {
   return (
     <>
       <div className="Axtri_main">
         <div className="par">
-          <h1>Welcome to Axtri Software Services , Our Website is under development</h1>
+          <h3>Welcome to Axtri Software Services , Our Website is under development</h3>
           <h3>Meanwhile you can see the insights of Our compnay</h3>
         </div>
         <iframe
-          src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/file/RjrvbpcAIc9u3ghLKPvcFc/Axtri?node-id=679-9207&page-id=0%3A1"
+          src="https://embed.figma.com/proto/RjrvbpcAIc9u3ghLKPvcFc/Axtri?node-id=679-9207&t=XWSvPAaSrZhPISPk-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&hide-ui=1&embed-host=figma-embed-docs"
           frameborder="0"
-          className="iframe_design"
+          className="iframe_design" 
+          allowfullscreen
         >
 
         </iframe>
